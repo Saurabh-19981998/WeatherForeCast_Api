@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.opendb
+*.VC.db
+*.sdf
+*.cache
+*.ncb
+*.res
+*.aps
+*.pch
+*.csp
+*.builds
+*.log
+*.plg
+*.bak
+*.obj
+*.pdb
+*.orig
+*.swp
+*.code-workspace
+*.vscode
+
+# Project files and build output
+bin/
+obj/
+publish/
+artifacts/
+node_modules/

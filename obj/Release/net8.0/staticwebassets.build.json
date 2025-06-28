@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PJP5txsWmyfRCDEgamGMXYeKuotS0+Ln/y2DqiZF0OY=",
+  "Source": "Weather_ForCast",
+  "BasePath": "_content/Weather_ForCast",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
