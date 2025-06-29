@@ -9,7 +9,6 @@ phases:
   pre_build:
     commands:
       - echo "Restoring Nuget packages"
-      - dotnet restore Weather_forCast
   build:
     commands:
       - echo "Building and publishing .Net core application"
